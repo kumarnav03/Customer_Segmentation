@@ -11,6 +11,8 @@ Problem : We need to understand our customer's purchase behaviour and rank them 
   4. EDA
   5. Elbow method for Optimum clusters
   
+ ![alt text](https://github.com/kumarnav03/Customer_Segmentation/blob/master/Customer_Tableau.PNG)
+  
 # Conclusion
   1. We have identifed the way to clusters our customers with optimal cluster being 7 where error did not decrease significantly
   2. Based on Mean cost spend by the customer promotion or membership can be decided
